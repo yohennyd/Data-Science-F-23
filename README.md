@@ -11,9 +11,13 @@ DATA DESCRIPTION: The data contains the different data related to a food order.
 DATA DICTIONARY:
 
 order_id: Unique ID of the order
+
 customer_id: ID of the customer who ordered the food
+
 restaurant_name: Name of the restaurant
+
 cuisine_type: Cuisine ordered by the customer
+
 cost: Cost of the order
 day_of_the_week: Indicates whether the order is placed on a weekday or weekend
 rating: Rating given by the customer out of 5
